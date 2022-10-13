@@ -16,11 +16,9 @@ Full documentation is supplied here: https://github.com/typicode/json-server.
 
 ## Reference
 
-The structure of this app is based on the following:
+The structure of this app is based on the following:<br />
+https://www.youtube.com/watch?v=jAnJCsQDyXk<br />
+https://github.com/mehmetyilmaz001/fake-product-api-json-server<br />
 
-https://www.youtube.com/watch?v=jAnJCsQDyXk
-
-https://github.com/mehmetyilmaz001/fake-product-api-json-server
-
-The repo has been forked and is also available here:
+The repo has been forked and is also available here:<br />
 https://github.com/ananta-dev/fake-product-api-json-server/
