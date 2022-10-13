@@ -13,3 +13,12 @@ Likewise, to get all available addons please use:
 http://localhost:4000/addons
 
 Full documentation is supplied here: https://github.com/typicode/json-server.
+
+## Reference
+
+The structure of this app is based on the following:
+https://www.youtube.com/watch?v=jAnJCsQDyXk
+https://github.com/mehmetyilmaz001/fake-product-api-json-server
+
+The repo has been forked and is also available here:
+https://github.com/ananta-dev/fake-product-api-json-server/
