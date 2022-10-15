@@ -1,8 +1,7 @@
-## Mock API
+## Tiny Mock API server with json-server
 
-IMPORTANT: The json-server port has been changed to 4000 to leave port 3000 free for create-react-app.
-
-Please install the npm dependencies `npm install` and start project `npm start`, this in turn will generate the mocked data and host the API on port 4000.
+The port used is 4000 to leave port 3000 free for React front-end if run locally.
+To run locally, please install the npm dependencies with `npm install` and do `npm start`.
 
 To get the details of the quote please use the following endpoint:<br />
 http://localhost4000/quote
@@ -10,7 +9,7 @@ http://localhost4000/quote
 Likewise, to get all available addons please use:<br />
 http://localhost:4000/addons
 
-Full documentation is supplied here:<br />
+Full documentation for json-server is supplied here:<br />
 https://github.com/typicode/json-server.
 
 ## Reference
